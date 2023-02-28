@@ -6,7 +6,7 @@
 
   (title_block
     (title "IOT Playground Board - ESP32")
-    (date "2023-02-07")
+    (date "2023-02-24")
     (rev "A")
     (company "Joshua Butler, MD, MHI")
   )
@@ -2708,6 +2708,7 @@
       )
     )
   )
+
 
   (junction (at 143.51 100.33) (diameter 0) (color 0 0 0 0)
     (uuid 014eec04-4fd5-4104-8602-46be2825dcf9)
